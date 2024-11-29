@@ -1,0 +1,1 @@
+Estudiante Juan, Espanol=10 Matematicas=8;
